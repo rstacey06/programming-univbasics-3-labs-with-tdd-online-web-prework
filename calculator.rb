@@ -1,1 +1,1 @@
-firts_number = 0
+firt_number = 0
