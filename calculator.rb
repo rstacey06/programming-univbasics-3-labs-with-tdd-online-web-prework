@@ -1,1 +1,1 @@
-firts_number = "Hello World!"
+firts_number = 0
